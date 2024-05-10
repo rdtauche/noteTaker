@@ -31,8 +31,8 @@ Link to full requirements for challenge:  https://bootcampspot.instructure.com/c
     3. Once complete, go to pages and deploy the website live
 
 ## My Results
-    1. Our Github Repo:  https://github.com/rdtauche/noteTaker
-    2. Our Pages Deploy: https://rdtauche.github.io/noteTaker/
+    1. My Github Repo:  https://github.com/rdtauche/noteTaker
+    2. My Render Deploy: https://notetaker-yzt4.onrender.com
 
 
 ## Credits
@@ -40,6 +40,7 @@ We used the following APIs for our project:
 1. JQuery: https://code.jquery.com/jquery-3.5.1.min.js
 2. CU Professors gave us a lot of starter code
 3. Used ChatGPT Copilot for some help (although i still couldnt get it to work yet)
+4. used in class working session to help fix my issues from initial submission
 
 
 ## License
