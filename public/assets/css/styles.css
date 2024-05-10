@@ -9,6 +9,22 @@ body {
   display: none;
 }
 
+.navbarBG {
+  background-color: black;
+  height: 100px;
+  font-size: x-large;
+}
+
+#backgroundNote
+{
+  background-color: green;
+}
+
+#green {
+  background-color: green;
+
+}
+
 .icons {
   margin-left: 15px;
   margin-right: 15px;
